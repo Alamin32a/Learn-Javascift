@@ -1,0 +1,51 @@
+*{
+	margin:0 ;
+	padding: 0;
+}
+.header{
+	margin: 0 auto;
+	width: 800px;
+	height: 170px;
+	text-align: center;
+	background: tomato;
+	color: #ffffff;
+	border: 3px solid black;
+	border-radius: 15px;
+	margin-top: 10px;
+    padding: 50px;
+    padding-top:50px;
+
+}
+ .header h1{
+ 	font-size: 65px;
+ }
+ .header h2{
+ 	font-size:45px ;
+ }
+ .header h4{
+ 	font-size: 30px;
+ }
+
+
+.list-part{
+	background: black;
+	width: 800px;
+	height: 150px;
+	text-align: center;
+	margin: 0 auto;
+	color: white;
+	padding: 50px;
+
+}
+.list-tabel{
+	margin-top:15px;
+	
+
+
+
+}
+th,td{
+
+	padding: 10px 45px;
+	color: white;
+}
